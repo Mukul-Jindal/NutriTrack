@@ -11,5 +11,5 @@ Backend - Firebase
 AI model- trained using CNN model
 
 
-To run the app just run the 'homeWithFirebase.dart' file in project/lib/Mukul
+To run the app just run `flutter pub get` and then run 'homeWithFirebase.dart' file in project/lib/Mukul
   Then just create a new account by clicking on 'Get Started' 
