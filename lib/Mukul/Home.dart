@@ -222,6 +222,7 @@ class _HomeState extends State<Home> {
                           ),
                         ),
                       ),
+
                       InkWell(
                         onTap: () {
                           Navigator.of(context).push(
