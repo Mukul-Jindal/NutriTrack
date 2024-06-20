@@ -1,16 +1,15 @@
-# nutrition_app
+Nutrition-App is just a basic health tracker app where user can enter their calories in-take and amonut of water consumed in a day.
 
-A new Flutter project.
+This was a team project and the team members and their contribution toward the project were
+  1. Mehak Sharma - Designs and Frontend
+  2. Chirayu Gupta- Frontend and AI integration with camera
+  3. Naman Bhargava- Documentation 
+  4. Mukul Jindal- Frontend and Backend
+  
+Frontend - Flutter
+Backend - Firebase
+AI model- trained using CNN model
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the app just run `flutter pub get` and then run 'homeWithFirebase.dart' file in project/lib/Mukul
+  Then just create a new account by clicking on 'Get Started' 
